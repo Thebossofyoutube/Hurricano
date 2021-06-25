@@ -1,8 +1,8 @@
 {
-  "token": "Your bot token",
-  "mongouri": "Mongodb uri",
-  "prefix": "Your prefix",
-  "ownerIds": ["Owner's USER IDs", "Like this", "can be as many"],
+  "token": "ODU3NjEyNzQ4MDg3MzYxNjI2.YNSIHA.0e3YvgnI2aZoP-hVHRcWbibg20g",
+  "mongouri": "mongodb+srv://username:<password>@cluster0.uonmm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "prefix": "ai",
+  "ownerIds": ["827175167926861824", "852259777681555456", "821695489908277248"],
   "website": {
     "enabled": false,
     "ip": "Website IP",
